@@ -5,3 +5,7 @@ Purple
 Indigo
 Green
 Yellow
+
+The master and the Unicorn
+White
+Black
